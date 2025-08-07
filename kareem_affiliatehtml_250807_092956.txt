@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Kareem Affiliate</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f5dc;
+      color: #333;
+      text-align: center;
+      padding: 40px;
+    }
+    h1 {
+      color: #2a7a1f;
+    }
+    p {
+      font-size: 18px;
+      margin-bottom: 30px;
+    }
+    a {
+      display: block;
+      margin: 10px auto;
+      width: 200px;
+      padding: 12px;
+      background-color: #4CAF50;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+      transition: background-color 0.3s ease;
+    }
+    a:hover {
+      background-color: #357a17;
+    }
+  </style>
+</head>
+<body>
+  <h1>مرحبا بك في Kareem Affiliate!</h1>
+  <p>هنا هتلاقي أفضل المنتجات اللي بتسوقها، اضغط على أي رابط عشان تشتري وتدعمنا بعمولة صغيرة.</p>
+  <a href="#" target="_blank">منتج 1</a>
+  <a href="#" target="_blank">منتج 2</a>
+  <a href="#" target="_blank">منتج 3</a>
+</body>
+</html>
